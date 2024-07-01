@@ -21,5 +21,5 @@ This project is a simple chat application built using Spring Boot for the backen
 ### Backend Setup
 1. **Clone the repository:**
    ```bash
-   git clone [<repository-url>](https://github.com/ibrahimbayramli/spring-messenger.git)
+   git clone https://github.com/ibrahimbayramli/spring-messenger.git
    
